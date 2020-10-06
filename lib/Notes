@@ -1,5 +1,19 @@
 I didnt place this lesson into any folder, its just on its own directory
 And how do I take the lesson and put it into the correct folder?
+
 Why does def name=(dogs_name) not need spaces between the =() ?
+
 when to put end within a class
-do we need to bundle intall for every lab
+
+do we need to bundle intall for every lab - yes
+
+Ericks-MBP% learn submit
+Adding changes...
+Committing changes...
+It looks like you have no changes to commit. Will still try updating your submission...
+Pushing changes to GitHub...
+Submitting lesson...
+Hmm...this doesn't appear to be a Learn lesson. Are you in the right directory?
+Ericks-MBP% pwd
+/Users/erickvilleda/ruby-oo-fundamentals-classes-and-instances-lab
+Ericks-MBP% 
